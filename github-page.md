@@ -1,0 +1,1 @@
+1. Landing page Binar Car Rent berikut dengan menerapkan konsep responsive design [open](https://andriwah.github.io/challange-02-andri-wahyudi/)
